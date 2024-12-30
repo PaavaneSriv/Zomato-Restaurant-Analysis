@@ -48,5 +48,4 @@ The data used in this project comes from two files:
 - Visualizations include bar charts, column chart and pie charts.  
 - The dashboard focuses on providing insights into top restaurants, cuisines, ratings and more.
 
----[Country-Code.xlsx](https://github.com/user-attachments/files/18273590/Country-Code.xlsx)
-[zomato.csv](https://github.com/user-attachments/files/18273589/zomato.csv)
+---
